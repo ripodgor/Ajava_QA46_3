@@ -14,7 +14,7 @@ build/
 .sts4-cache
 
 ### IntelliJ IDEA ###
-/.idea/
+.idea
 *.iws
 *.iml
 *.ipr
@@ -43,4 +43,4 @@ out/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
 !**/src/test/**
-!artifacts/app-order.jar
+!artifacts/app-order.jar.idea
